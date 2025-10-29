@@ -1,0 +1,1 @@
+web: gunicorn estimation_in_earthquake_earlywarning.wsgi
